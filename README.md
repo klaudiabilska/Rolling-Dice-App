@@ -5,7 +5,7 @@
 
 ### Links
 
-- [URL](rollingdicebilska.netlify.app)
+- [URL](https://rollingdicebilska.netlify.app/)
 
 ### Built with
 
